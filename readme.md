@@ -8,9 +8,9 @@ Fill aisle seats first followed by window seats followed by center seats (any or
 **Prerequisistes:**
 
 Python 3.6 and above needs to be installed
-RUN python -m pip install pyyaml
+1. RUN python -m pip install pyyaml
 
-RUN pip install -r requirements.txt
+2.RUN pip install -r requirements.txt
 
 This is written using python3. To run the program run python seating.py in the command prompt.
 
