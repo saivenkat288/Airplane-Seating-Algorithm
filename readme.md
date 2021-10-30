@@ -1,11 +1,11 @@
-**Instructions to run project**
+**Instructions to run project:**
 
 The problem statement is to allocate each passenger to a seat which is given as the input to the program based on the following constraints.
 
 Always seat passengers starting from the front row to back, starting from the left to the right
 Fill aisle seats first followed by window seats followed by center seats (any order in center seats)
 
-**Prerequisistes**
+**Prerequisistes:**
 
 Python 3.6 and above needs to be installed
 RUN python -m pip install pyyaml
